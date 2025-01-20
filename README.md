@@ -1,4 +1,3 @@
 # Doggo the Dog
-A github repo for my WEBD 225 course. 
-
+New files. Starting over. 
 Week 1: Add my name
